@@ -1,0 +1,6 @@
+{
+  "name": "Project: Clientserver - Websocket",
+  "description": "Host your own websocket for clientserver",
+  "repository": "https://github.com/mgamingpro/Clientserver-ws/",
+  "keywords": ["node", "websocket"]
+}
